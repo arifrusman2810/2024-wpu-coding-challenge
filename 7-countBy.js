@@ -1,5 +1,5 @@
 // WPU Coding Challenge
-// 5/366
+// 7/366
 // codewars.com/kata/5513795bd3fafb56c200049e
 
 // function countBy(x, n) {
