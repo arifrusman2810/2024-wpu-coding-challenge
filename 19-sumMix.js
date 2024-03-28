@@ -1,5 +1,5 @@
 // WPU Coding Challenge
-// 18/366
+// 19/366
 // https://www.codewars.com/kata/5772da22b89313a4d50012f7
 
 // function sumMix(x){
