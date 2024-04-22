@@ -24,13 +24,20 @@
 //   }
 // }
 
-const rules = {
+// const rules = {
+//   yellow: 'red',
+//   red: 'green',
+//   green: 'yellow',
+// }
+// function updateLight(current) {
+//   return rules[current];
+// }
+
+const updateLight = (current) =>({
   yellow: 'red',
   red: 'green',
   green: 'yellow',
-}
-function updateLight(current) {
-  return rules[current];
-}
+}[current])
+
 
 console.log(updateLight("red"));
